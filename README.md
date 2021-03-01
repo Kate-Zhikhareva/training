@@ -1,2 +1,2 @@
-# training
+# описание моего репозитория
 for testing 
